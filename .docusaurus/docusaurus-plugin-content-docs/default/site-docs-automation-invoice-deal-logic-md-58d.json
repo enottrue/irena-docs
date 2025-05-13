@@ -1,0 +1,23 @@
+{
+  "id": "automation/invoice-deal-logic",
+  "title": "Автоматизация обработки счетов и сделок",
+  "description": "После успешной оплаты счёта система проверяет, сколько оплаченных счетов привязано к сделке.",
+  "source": "@site/docs/automation/invoice-deal-logic.md",
+  "sourceDirName": "automation",
+  "slug": "/automation/invoice-deal-logic",
+  "permalink": "/irena-docs/docs/automation/invoice-deal-logic",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Автозаполнение CRM",
+    "permalink": "/irena-docs/docs/automation/auto-fill-crm"
+  },
+  "next": {
+    "title": "Структура сайтов",
+    "permalink": "/irena-docs/docs/websites/structure"
+  }
+}

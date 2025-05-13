@@ -1,0 +1,23 @@
+{
+  "id": "websites/structure",
+  "title": "Структура сайтов",
+  "description": "Описание структуры веб-проектов.",
+  "source": "@site/docs/websites/structure.md",
+  "sourceDirName": "websites",
+  "slug": "/websites/structure",
+  "permalink": "/irena-docs/docs/websites/structure",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Автоматизация обработки счетов и сделок",
+    "permalink": "/irena-docs/docs/automation/invoice-deal-logic"
+  },
+  "next": {
+    "title": "Список сайтов",
+    "permalink": "/irena-docs/docs/websites/sites"
+  }
+}

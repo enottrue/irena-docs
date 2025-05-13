@@ -1,0 +1,93 @@
+{
+  "/irena-docs/__docusaurus/debug/-013": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---irena-docs-docusaurus-debug-b-38-2b5"
+    }
+  },
+  "/irena-docs/__docusaurus/debug/config/-0b6": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---irena-docs-docusaurus-debug-b-38-2b5"
+    }
+  },
+  "/irena-docs/__docusaurus/debug/content/-a00": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---irena-docs-docusaurus-debug-b-38-2b5"
+    },
+    "__props": "__props---irena-docs-docusaurus-debug-content-1-f-3-984"
+  },
+  "/irena-docs/__docusaurus/debug/globalData/-b73": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---irena-docs-docusaurus-debug-b-38-2b5"
+    }
+  },
+  "/irena-docs/__docusaurus/debug/metadata/-6c4": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---irena-docs-docusaurus-debug-b-38-2b5"
+    }
+  },
+  "/irena-docs/__docusaurus/debug/registry/-5bf": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---irena-docs-docusaurus-debug-b-38-2b5"
+    }
+  },
+  "/irena-docs/__docusaurus/debug/routes/-276": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---irena-docs-docusaurus-debug-b-38-2b5"
+    }
+  },
+  "/irena-docs/docs/-79b": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---irena-docs-docs-aba-b30"
+    }
+  },
+  "/irena-docs/docs/-f1c": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---irena-docs-docs-ec-8-144"
+  },
+  "/irena-docs/docs/-207": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/irena-docs/docs/automation/auto-fill-crm/-03f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---irena-docs-docs-automation-auto-fill-crm-b-81-fbc"
+  },
+  "/irena-docs/docs/automation/invoice-deal-logic/-2d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---irena-docs-docs-automation-invoice-deal-logic-58-d-875"
+  },
+  "/irena-docs/docs/crm/deals/-179": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---irena-docs-docs-crm-deals-4-f-8-83e"
+  },
+  "/irena-docs/docs/payments/getcourse-integration/-cdc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---irena-docs-docs-payments-getcourse-integration-aff-da5"
+  },
+  "/irena-docs/docs/websites/astro-irena-analytics/-9d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---irena-docs-docs-websites-astro-irena-analytics-6-f-1-764"
+  },
+  "/irena-docs/docs/websites/sites/-da0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---irena-docs-docs-websites-sites-2-b-0-49a"
+  },
+  "/irena-docs/docs/websites/structure/-33b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---irena-docs-docs-websites-structure-cf-5-3c7"
+  },
+  "/irena-docs/-806": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---irena-docs-a-74-260"
+    },
+    "config": "config---irena-docs-5-e-9-c5b"
+  }
+}

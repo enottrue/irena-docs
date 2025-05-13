@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/irena-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/irena-docs/docs",
+          "mainDocId": "crm/deals",
+          "docs": [
+            {
+              "id": "automation/auto-fill-crm",
+              "path": "/irena-docs/docs/automation/auto-fill-crm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "automation/invoice-deal-logic",
+              "path": "/irena-docs/docs/automation/invoice-deal-logic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "crm/deals",
+              "path": "/irena-docs/docs/crm/deals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "payments/getcourse-integration",
+              "path": "/irena-docs/docs/payments/getcourse-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "websites/astro-irena-analytics",
+              "path": "/irena-docs/docs/websites/astro-irena-analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "websites/sites",
+              "path": "/irena-docs/docs/websites/sites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "websites/structure",
+              "path": "/irena-docs/docs/websites/structure",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/irena-docs/docs/crm/deals",
+                "label": "crm/deals"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

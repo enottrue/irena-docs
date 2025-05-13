@@ -1,0 +1,23 @@
+{
+  "id": "payments/getcourse-integration",
+  "title": "Интеграция с GetCourse",
+  "description": "",
+  "source": "@site/docs/payments/getcourse-integration.md",
+  "sourceDirName": "payments",
+  "slug": "/payments/getcourse-integration",
+  "permalink": "/irena-docs/docs/payments/getcourse-integration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Сделки в CRM",
+    "permalink": "/irena-docs/docs/crm/deals"
+  },
+  "next": {
+    "title": "Автозаполнение CRM",
+    "permalink": "/irena-docs/docs/automation/auto-fill-crm"
+  }
+}

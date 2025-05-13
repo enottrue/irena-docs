@@ -1,0 +1,19 @@
+{
+  "id": "websites/astro-irena-analytics",
+  "title": "Аналитика",
+  "description": "В этом документе описаны все цели и события, которые передаются в системы аналитики (Google Analytics 4 и Яндекс.Метрика).",
+  "source": "@site/docs/websites/astro-irena-analytics.md",
+  "sourceDirName": "websites",
+  "slug": "/websites/astro-irena-analytics",
+  "permalink": "/irena-docs/docs/websites/astro-irena-analytics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Список сайтов",
+    "permalink": "/irena-docs/docs/websites/sites"
+  }
+}

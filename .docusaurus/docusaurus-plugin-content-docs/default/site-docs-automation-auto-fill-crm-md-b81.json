@@ -1,0 +1,23 @@
+{
+  "id": "automation/auto-fill-crm",
+  "title": "Автозаполнение CRM",
+  "description": "Как автоматизируются поля сделок.",
+  "source": "@site/docs/automation/auto-fill-crm.md",
+  "sourceDirName": "automation",
+  "slug": "/automation/auto-fill-crm",
+  "permalink": "/irena-docs/docs/automation/auto-fill-crm",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Интеграция с GetCourse",
+    "permalink": "/irena-docs/docs/payments/getcourse-integration"
+  },
+  "next": {
+    "title": "Автоматизация обработки счетов и сделок",
+    "permalink": "/irena-docs/docs/automation/invoice-deal-logic"
+  }
+}

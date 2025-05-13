@@ -1,0 +1,19 @@
+{
+  "id": "crm/deals",
+  "title": "Сделки в CRM",
+  "description": "Описание работы со сделками.",
+  "source": "@site/docs/crm/deals.md",
+  "sourceDirName": "crm",
+  "slug": "/crm/deals",
+  "permalink": "/irena-docs/docs/crm/deals",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Интеграция с GetCourse",
+    "permalink": "/irena-docs/docs/payments/getcourse-integration"
+  }
+}

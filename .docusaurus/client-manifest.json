@@ -1,0 +1,247 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "42": [
+      42
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "1df93b7f": [
+      583
+    ],
+    "2b09ee91": [
+      658
+    ],
+    "4f8f269b": [
+      318
+    ],
+    "58da6caa": [
+      442
+    ],
+    "5e95c892": [
+      647
+    ],
+    "6f11d07f": [
+      154
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "affc0fa0": [
+      738
+    ],
+    "b81b556f": [
+      622
+    ],
+    "cf5ee664": [
+      41
+    ],
+    "ec8210ed": [
+      97
+    ],
+    "styles": [
+      48,
+      354,
+      401,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "41": {
+      "js": [
+        {
+          "file": "assets/js/cf5ee664.221ea89e.js",
+          "hash": "b46cd3baf7bedab6",
+          "publicPath": "/irena-docs/assets/js/cf5ee664.221ea89e.js"
+        }
+      ]
+    },
+    "42": {
+      "js": [
+        {
+          "file": "assets/js/42.144d8486.js",
+          "hash": "35eb7e04d84ebff8",
+          "publicPath": "/irena-docs/assets/js/42.144d8486.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.488f1205.js",
+          "hash": "11bd0a9338d2ae35",
+          "publicPath": "/irena-docs/assets/js/a94703ab.488f1205.js"
+        }
+      ]
+    },
+    "97": {
+      "js": [
+        {
+          "file": "assets/js/ec8210ed.6484f1f4.js",
+          "hash": "0477979732122d90",
+          "publicPath": "/irena-docs/assets/js/ec8210ed.6484f1f4.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.afe0e582.js",
+          "hash": "788aca078923e2c4",
+          "publicPath": "/irena-docs/assets/js/a7bd4aaa.afe0e582.js"
+        }
+      ]
+    },
+    "154": {
+      "js": [
+        {
+          "file": "assets/js/6f11d07f.520272ce.js",
+          "hash": "270ad86a86f868c4",
+          "publicPath": "/irena-docs/assets/js/6f11d07f.520272ce.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.4e50dc03.js",
+          "hash": "ad9af7ea279a22e4",
+          "publicPath": "/irena-docs/assets/js/a7456010.4e50dc03.js"
+        }
+      ]
+    },
+    "318": {
+      "js": [
+        {
+          "file": "assets/js/4f8f269b.4680f60b.js",
+          "hash": "65f69bc802b986c5",
+          "publicPath": "/irena-docs/assets/js/4f8f269b.4680f60b.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.1cba9fdc.js",
+          "hash": "a45ef3eef0508237",
+          "publicPath": "/irena-docs/assets/js/runtime~main.1cba9fdc.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.6c5ff9c3.js",
+          "hash": "237fe1bdb0f99473",
+          "publicPath": "/irena-docs/assets/js/17896441.6c5ff9c3.js"
+        }
+      ]
+    },
+    "442": {
+      "js": [
+        {
+          "file": "assets/js/58da6caa.bf35336d.js",
+          "hash": "a5262d98bd9136c0",
+          "publicPath": "/irena-docs/assets/js/58da6caa.bf35336d.js"
+        }
+      ]
+    },
+    "583": {
+      "js": [
+        {
+          "file": "assets/js/1df93b7f.826b3b63.js",
+          "hash": "c625d470b204bdf8",
+          "publicPath": "/irena-docs/assets/js/1df93b7f.826b3b63.js"
+        }
+      ]
+    },
+    "622": {
+      "js": [
+        {
+          "file": "assets/js/b81b556f.c5283560.js",
+          "hash": "3f31051e2913c40a",
+          "publicPath": "/irena-docs/assets/js/b81b556f.c5283560.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.781454f2.js",
+          "hash": "9844386526e8cece",
+          "publicPath": "/irena-docs/assets/js/5e95c892.781454f2.js"
+        }
+      ]
+    },
+    "658": {
+      "js": [
+        {
+          "file": "assets/js/2b09ee91.225a438f.js",
+          "hash": "cf8a0a7462c1139f",
+          "publicPath": "/irena-docs/assets/js/2b09ee91.225a438f.js"
+        }
+      ]
+    },
+    "738": {
+      "js": [
+        {
+          "file": "assets/js/affc0fa0.9311d5d1.js",
+          "hash": "283439d83379026f",
+          "publicPath": "/irena-docs/assets/js/affc0fa0.9311d5d1.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.059db032.js",
+          "hash": "5efefd710f682a8b",
+          "publicPath": "/irena-docs/assets/js/aba21aa0.059db032.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.7da79bf0.js",
+          "hash": "0d1251b4ca585892",
+          "publicPath": "/irena-docs/assets/js/main.7da79bf0.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.401ad1b9.css",
+          "hash": "61cf7b2f07c206ba",
+          "publicPath": "/irena-docs/assets/css/styles.401ad1b9.css"
+        }
+      ]
+    }
+  }
+}

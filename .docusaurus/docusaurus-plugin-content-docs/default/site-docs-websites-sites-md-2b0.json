@@ -1,0 +1,23 @@
+{
+  "id": "websites/sites",
+  "title": "Список сайтов",
+  "description": "Основные домены",
+  "source": "@site/docs/websites/sites.md",
+  "sourceDirName": "websites",
+  "slug": "/websites/sites",
+  "permalink": "/irena-docs/docs/websites/sites",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Структура сайтов",
+    "permalink": "/irena-docs/docs/websites/structure"
+  },
+  "next": {
+    "title": "Аналитика",
+    "permalink": "/irena-docs/docs/websites/astro-irena-analytics"
+  }
+}
