@@ -43,6 +43,32 @@
   });
   ```
 
+- `begin_checkout_form` - Начало оформления заказа через форму
+  ```javascript
+  gtag('event', 'begin_checkout_form', {
+    'items': [{
+      'item_id': 'PRODUCT_ID',
+      'item_name': 'PRODUCT_NAME',
+      'price': 'PRICE'
+    }],
+    'value': 100,
+    'currency': 'USD'
+  });
+  ```
+
+- `view_item_success` - Просмотр товара на странице успешной оплаты
+  ```javascript
+  gtag('event', 'view_item_success', {
+    'items': [{
+      'item_id': 'PRODUCT_ID',
+      'item_name': 'PRODUCT_NAME',
+      'price': 'PRICE'
+    }],
+    'value': 100,
+    'currency': 'USD'
+  });
+  ```
+
 - `purchase` - Успешная оплата
   ```javascript
   gtag('event', 'purchase', {
@@ -199,6 +225,32 @@
   ym(100786060, 'reachGoal', 'payment_start', {
     value: 100,
     currency: 'USD'
+  });
+  ```
+
+- `begin_checkout_form` - Начало оформления заказа через форму
+  ```javascript
+  ym(100786060, 'reachGoal', 'begin_checkout_form', {
+    value: 100,
+    currency: 'USD',
+    items: [{
+      item_id: 'PRODUCT_ID',
+      item_name: 'PRODUCT_NAME',
+      price: 'PRICE'
+    }]
+  });
+  ```
+
+- `view_item_success` - Просмотр товара на странице успешной оплаты
+  ```javascript
+  ym(100786060, 'reachGoal', 'view_item_success', {
+    value: 100,
+    currency: 'USD',
+    items: [{
+      item_id: 'PRODUCT_ID',
+      item_name: 'PRODUCT_NAME',
+      price: 'PRICE'
+    }]
   });
   ```
 
