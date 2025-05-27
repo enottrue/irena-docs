@@ -1,7 +1,7 @@
 module.exports = {
   tutorialSidebar: [
     { type: 'category', label: 'CRM', items: ['crm/deals'] },
-    { type: 'category', label: 'Платежи', items: ['payments/getcourse-integration'] },
+    { type: 'category', label: 'Платежи', items: ['payments/getcourse-integration', 'payments/wazapp-subscriptions'] },
     {
       type: 'category',
       label: 'Автоматизации',

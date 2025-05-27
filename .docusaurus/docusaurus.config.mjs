@@ -18,11 +18,11 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/enottrue/Desktop/irena-docs (2)/sidebars.js",
+          "sidebarPath": "/Users/enottrue/Documents/projects/irena-docs-1/sidebars.js",
           "routeBasePath": "docs"
         },
         "theme": {
-          "customCss": "/Users/enottrue/Desktop/irena-docs (2)/src/css/custom.css"
+          "customCss": "/Users/enottrue/Documents/projects/irena-docs-1/src/css/custom.css"
         }
       }
     ]

@@ -1,0 +1,23 @@
+{
+  "id": "payments/wazapp-subscriptions",
+  "title": "Подписки Wazapp",
+  "description": "Общая информация",
+  "source": "@site/docs/payments/wazapp-subscriptions.md",
+  "sourceDirName": "payments",
+  "slug": "/payments/wazapp-subscriptions",
+  "permalink": "/irena-docs/docs/payments/wazapp-subscriptions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Интеграция с GetCourse",
+    "permalink": "/irena-docs/docs/payments/getcourse-integration"
+  },
+  "next": {
+    "title": "Автозаполнение CRM",
+    "permalink": "/irena-docs/docs/automation/auto-fill-crm"
+  }
+}

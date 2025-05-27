@@ -31,6 +31,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "payments/wazapp-subscriptions",
+              "path": "/irena-docs/docs/payments/wazapp-subscriptions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "websites/astro-irena-analytics",
               "path": "/irena-docs/docs/websites/astro-irena-analytics",
               "sidebar": "tutorialSidebar"

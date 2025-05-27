@@ -1,0 +1,88 @@
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  // Находим только конкретное видео и его элементы управления
+  const videoWrapper = document.querySelector('#preview-video .video-wrapper');
+  if (!videoWrapper) return; // Если элемент не найден, прекращаем выполнение
+
+  const video = videoWrapper.querySelector('#preview-video-element');
+  const btn = videoWrapper.querySelector('#play-pause-button');
+  const iconPlay = videoWrapper.querySelector('#icon-play');
+  const iconPause = videoWrapper.querySelector('#icon-pause');
+
+  if (!video || !btn || !iconPlay || !iconPause) return; // Проверяем наличие всех необходимых элементов
+
+  // Флаг для отслеживания, была ли уже отправлена цель о просмотре
+  let viewGoalSent = false;
+  // Флаг для отслеживания, была ли уже отправлена цель о просмотре до конца
+  let completeGoalSent = false;
+
+  function updateButton() {
+    if (video.paused) {
+      iconPlay.style.display = 'block';
+      iconPause.style.display = 'none';
+      btn.setAttribute('aria-pressed', 'false');
+      btn.setAttribute('aria-label', 'Воспроизвести');
+      videoWrapper.classList.remove('playing');
+    } else {
+      iconPlay.style.display = 'none';
+      iconPause.style.display = 'block';
+      btn.setAttribute('aria-pressed', 'true');
+      btn.setAttribute('aria-label', 'Пауза');
+      videoWrapper.classList.add('playing');
+    }
+  }
+
+  function togglePlay() {
+    if (video.paused) {
+      video.play();
+    } else {
+      video.pause();
+    }
+    updateButton();
+  }
+
+  btn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    togglePlay();
+  });
+
+  video.addEventListener('click', togglePlay);
+  
+  // Отслеживание просмотра видео
+  video.addEventListener('play', () => {
+    updateButton();
+    // Отправляем цель о начале просмотра только один раз
+    if (!viewGoalSent) {
+      ym(56736205, 'reachGoal', 'video_view');
+      viewGoalSent = true;
+    }
+  });
+
+  video.addEventListener('pause', updateButton);
+
+  // Отслеживание просмотра до конца
+  video.addEventListener('ended', () => {
+    if (!completeGoalSent) {
+      ym(56736205, 'reachGoal', 'video_complete');
+      completeGoalSent = true;
+    }
+  });
+
+  // Показ кнопки при наведении если видео играет
+  videoWrapper.addEventListener('mouseenter', () => {
+    if (!video.paused) {
+      btn.style.opacity = '1';
+      btn.style.pointerEvents = 'auto';
+    }
+  });
+
+  videoWrapper.addEventListener('mouseleave', () => {
+    if (!video.paused) {
+      btn.style.opacity = '0';
+      btn.style.pointerEvents = 'none';
+    }
+  });
+
+  updateButton();
+});
+</script>

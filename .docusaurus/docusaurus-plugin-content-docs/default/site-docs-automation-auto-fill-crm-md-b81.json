@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Интеграция с GetCourse",
-    "permalink": "/irena-docs/docs/payments/getcourse-integration"
+    "title": "Подписки Wazapp",
+    "permalink": "/irena-docs/docs/payments/wazapp-subscriptions"
   },
   "next": {
     "title": "Автоматизация обработки счетов и сделок",

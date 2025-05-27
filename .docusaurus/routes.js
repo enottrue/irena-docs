@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/irena-docs/docs/',
-    component: ComponentCreator('/irena-docs/docs/', '79b'),
+    component: ComponentCreator('/irena-docs/docs/', '1c3'),
     routes: [
       {
         path: '/irena-docs/docs/',
-        component: ComponentCreator('/irena-docs/docs/', 'f1c'),
+        component: ComponentCreator('/irena-docs/docs/', '244'),
         routes: [
           {
             path: '/irena-docs/docs/',
-            component: ComponentCreator('/irena-docs/docs/', '207'),
+            component: ComponentCreator('/irena-docs/docs/', '1d3'),
             routes: [
               {
                 path: '/irena-docs/docs/automation/auto-fill-crm/',
@@ -70,6 +70,12 @@ export default [
               {
                 path: '/irena-docs/docs/payments/getcourse-integration/',
                 component: ComponentCreator('/irena-docs/docs/payments/getcourse-integration/', 'cdc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/irena-docs/docs/payments/wazapp-subscriptions/',
+                component: ComponentCreator('/irena-docs/docs/payments/wazapp-subscriptions/', '20b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
