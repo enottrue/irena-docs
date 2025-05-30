@@ -5,7 +5,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Автоматизации',
-      items: ['automation/auto-fill-crm', 'automation/invoice-deal-logic']
+      items: ['automation/auto-fill-crm', 'automation/invoice-deal-logic', 'automation/irena-payment']
     },
     { 
       type: 'category', 
