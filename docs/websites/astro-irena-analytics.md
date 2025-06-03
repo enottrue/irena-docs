@@ -136,4 +136,3 @@
     currency: 'USD'
   }
   ```
-
