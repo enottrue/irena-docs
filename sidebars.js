@@ -1,20 +1,24 @@
 module.exports = {
   tutorialSidebar: [
-    { type: 'category', label: 'CRM', items: ['crm/deals'] },
-    { type: 'category', label: 'Платежи', items: ['payments/getcourse-integration', 'payments/wazapp-subscriptions'] },
+    {
+      type: 'category',
+      label: 'CRM',
+      items: require('./docs/crm/sidebar.js'),
+    },
+    {
+      type: 'category',
+      label: 'Платежи',
+      items: require('./docs/payments/sidebar.js'),
+    },
     {
       type: 'category',
       label: 'Автоматизации',
-      items: ['automation/auto-fill-crm', 'automation/invoice-deal-logic', 'automation/irena-payment']
+      items: require('./docs/automation/sidebar.js'),
     },
-    { 
-      type: 'category', 
-      label: 'Сайты', 
-      items: [
-        'websites/structure', 
-        'websites/sites',
-        'websites/astro-irena-analytics'
-      ] 
+    {
+      type: 'category',
+      label: 'Сайты',
+      items: require('./docs/websites/sidebar.js'),
     },
   ],
 };
