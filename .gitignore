@@ -27,3 +27,4 @@ yarn-error.log*
 *.swp
 *.swo 
 DOMAIN_CHECK_README.md
+domain_check_results.json

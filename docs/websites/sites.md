@@ -1,5 +1,6 @@
 
 
+
 ## Основные домены
 
 | Домен | Оплачен до | IP | Хостинг | Назначение | Примечания | HTTP | Доступность | Страна |
@@ -22,7 +23,7 @@
 | mungakelder.ee | - | 159.69.224.2 | Hetzner Online GmbH | Сайт старого клиента Олега | - | 200 | Доступен | Germany |
 | oko-clinic.ru | - | 159.69.224.2 | Hetzner Online GmbH | Сайт старого клиента Олега | - | 200 | Доступен | Germany |
 | store.tibracelets.ru | - | 188.225.63.102 | TimeWeb LLC | Браслеты Ирэна | Основной сайт браслетов | 200 | Доступен | Russia |
-| taroirena-school.ru | - | 23.88.115.197 | Hetzner Online GmbH | Обучение Ирэна | Основной сайт обучения, дорогой сайт | 200 | Доступен | Germany |
+| taroirena-school.ru | - | 23.88.115.197 | Hetzner Online GmbH | Обучение Ирэна | Основной сайт обучения | 200 | Доступен | Germany |
 | taroirena.com | 11 апр. 2025 | 159.69.224.2 | Hetzner Online GmbH | Браслеты Ирэна | Зеркало для международного эквайринга | 200 | Доступен | Germany |
 | tarotnews.ru | 5 окт. 2025 | 92.53.96.135 | TimeWeb LLC | Продукты Ирэны | Не активен | 200 | Доступен | Russia |
 | tarowebinars.ru | 5 сент. 2025 | 92.53.96.135 | TimeWeb LLC | Вебинары Ирэны | Не активен | 200 | Доступен | Russia |
@@ -47,6 +48,7 @@
 | womin.online | 8 сент. 2025 | N/A | N/A | Браслеты Роман | Рекламный сайт замануха | N/A | Недоступен | N/A |
 
 
+
 ## Субдомены taroirena.ru
 
 | Субдомен | Назначение | IP | Хостинг | Статус | Примечания | HTTP | Доступность | Страна |
@@ -56,6 +58,7 @@
 | blog.taroirena.ru | - | 159.69.224.2 | Hetzner Online GmbH | Не активен | Не используется | 200 | Доступен | Germany |
 | candles.taroirena.ru | - | 159.69.224.2 | Hetzner Online GmbH | Активен | Свечи Ирэны, может быть использован далее | 200 | Доступен | Germany |
 | contact.taroirena.ru | - | 83.220.174.242 | TheFirst | Активен | Запись на услуги Ирэны | 200 | Доступен | Russia |
+| edu.taroirena.ru | Лендинги обучения | 62.181.53.44 | JSC IOT | Активен | Активный лендинг: https://edu.taroirena.ru/tarorena-school-mini.html | 200 | Доступен | Russia |
 | grafana.taroirena.ru | мониторинг работы | 78.47.80.152 | Hetzner Online GmbH | Активен | Служебный / технический домен | 200 | Доступен | Germany |
 | logs.taroirena.ru | логи | 62.181.53.44 | JSC IOT | Активен | Служебный / технический домен | 200 | Доступен | Russia |
 | marrymeastro.taroirena.ru | - | 159.69.224.2 | Hetzner Online GmbH | Не активен | Сайт старого астролога, не работаем с ней | 200 | Доступен | Germany |
@@ -76,6 +79,7 @@
 | store.taroirena.ru | - | 185.137.235.213 | JSC Selectel | Активен | Перенесен на https://store.tibracelets.ru | Connection Error | Недоступен | Russia |
 | test.taroirena.ru | тест | 185.137.235.213 | JSC Selectel | Активен | Продажи через бот | Connection Error | Недоступен | Russia |
 | www.store.taroirena.ru | - | 185.137.235.213 | JSC Selectel | Активен | Перенесен на https://store.tibracelets.ru/ | Connection Error | Недоступен | Russia |
+
 
 
 ## Другие важные домены
